@@ -43,5 +43,3 @@ class Bezier:
     def __bezi(self, a, b, t):
         return a+(b-a)*t
 
-    # def points(self):
-    #     return self.pts
